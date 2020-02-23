@@ -23,8 +23,8 @@ colors.unshift("#{element}")
 end
 
 def remove_element_from_end_of_array(array)
-  array = ["gbgd", "xfbsdf", "xdfg", "dfg"]
-  array.pop
+  arr = ["gbgd", "xfbsdf", "xdfg", "dfg"]
+  arr.pop
 
 
 
