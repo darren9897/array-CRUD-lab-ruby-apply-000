@@ -37,8 +37,9 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  names = ["darren", "john", "lewis", "john"]
-names[2]
+names = ["darren", "john", "lewis", "john"]
+
+names.index(2)
 
 end
 
