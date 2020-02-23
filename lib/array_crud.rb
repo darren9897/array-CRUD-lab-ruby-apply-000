@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  mac = ["milk", "cheese", "macaroni", "pan"]
+  ["milk", "cheese", "macaroni", "pan"]
 
 end
 
