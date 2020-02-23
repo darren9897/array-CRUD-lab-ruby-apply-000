@@ -11,7 +11,7 @@ end
 def add_element_to_end_of_array(array, element)
 names = ["darren", "john", "lewis", "john"]
 
-names << "larry"
+names << "#{element}"
 
 end
 
