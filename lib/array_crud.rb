@@ -24,7 +24,8 @@ end
 
 def remove_element_from_end_of_array(array)
   arr = ["gbgd", "xfbsdf", "xdfg", "dfg"]
-  arr.pop
+  new = arr.pop
+  return new
 
 
 
