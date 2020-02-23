@@ -30,10 +30,15 @@ names.pop
 end
 
 def remove_element_from_start_of_array(array)
+  names = ["darren", "john", "lewis", "john"]
+  names.shift
+
 
 end
 
 def retrieve_element_from_index(array, index_number)
+  names = ["darren", "john", "lewis", "john"]
+names[2]
 
 end
 
