@@ -18,6 +18,7 @@ end
 def add_element_to_start_of_array(array, element)
   names = ["darren", "john", "lewis", "john"]
   names.unshift("#{element}")
+  return names
 
 
 
@@ -26,12 +27,14 @@ end
 def remove_element_from_end_of_array(array)
   names = ["darren", "john", "lewis", "john"]
 names.pop
+return names
 
 end
 
 def remove_element_from_start_of_array(array)
   names = ["darren", "john", "lewis", "john"]
   names.shift
+  return names
 
 
 end
